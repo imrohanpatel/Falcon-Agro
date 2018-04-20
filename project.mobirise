@@ -36,7 +36,7 @@
     "noImageResize": "",
     "versionFirst": "4.4.0",
     "uniqCompNum": 71,
-    "versionPublish": "4.6.2",
+    "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
